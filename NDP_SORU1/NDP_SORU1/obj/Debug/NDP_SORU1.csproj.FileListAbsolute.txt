@@ -1,0 +1,14 @@
+C:\Users\İSMAİL\Source\Repos\NDP_SORU1\NDP_SORU1\bin\Debug\NDP_SORU1.exe.config
+C:\Users\İSMAİL\Source\Repos\NDP_SORU1\NDP_SORU1\bin\Debug\NDP_SORU1.exe
+C:\Users\İSMAİL\Source\Repos\NDP_SORU1\NDP_SORU1\bin\Debug\NDP_SORU1.pdb
+C:\Users\İSMAİL\Source\Repos\NDP_SORU1\NDP_SORU1\obj\Debug\NDP_SORU1.csprojAssemblyReference.cache
+C:\Users\İSMAİL\Source\Repos\NDP_SORU1\NDP_SORU1\obj\Debug\NDP_SORU1.csproj.CoreCompileInputs.cache
+C:\Users\İSMAİL\Source\Repos\NDP_SORU1\NDP_SORU1\obj\Debug\NDP_SORU1.exe
+C:\Users\İSMAİL\Source\Repos\NDP_SORU1\NDP_SORU1\obj\Debug\NDP_SORU1.pdb
+C:\Users\İSMAİL\Desktop\nesneyedayalı\NDP_SORU1\NDP_SORU1\bin\Debug\NDP_SORU1.exe.config
+C:\Users\İSMAİL\Desktop\nesneyedayalı\NDP_SORU1\NDP_SORU1\bin\Debug\NDP_SORU1.exe
+C:\Users\İSMAİL\Desktop\nesneyedayalı\NDP_SORU1\NDP_SORU1\bin\Debug\NDP_SORU1.pdb
+C:\Users\İSMAİL\Desktop\nesneyedayalı\NDP_SORU1\NDP_SORU1\obj\Debug\NDP_SORU1.csprojAssemblyReference.cache
+C:\Users\İSMAİL\Desktop\nesneyedayalı\NDP_SORU1\NDP_SORU1\obj\Debug\NDP_SORU1.csproj.CoreCompileInputs.cache
+C:\Users\İSMAİL\Desktop\nesneyedayalı\NDP_SORU1\NDP_SORU1\obj\Debug\NDP_SORU1.exe
+C:\Users\İSMAİL\Desktop\nesneyedayalı\NDP_SORU1\NDP_SORU1\obj\Debug\NDP_SORU1.pdb
